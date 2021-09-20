@@ -1,8 +1,8 @@
 {
-	"name": "inputCSV",
+	"name": "pdinputcsvtrng20",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "lsStorage",
+			"referenceName": "lsStorageInputDFpdasantrng20",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
